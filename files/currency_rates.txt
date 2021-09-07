@@ -1,0 +1,11 @@
+Pakistani Rupee###1
+US Dollar###128
+Euro###150
+British Pound###168
+Australian Dollar###95
+Candian Dollar###98
+Singapore Dollar###94
+Swiss Franc###129
+Malaysian Ringgit###31
+Japense Yen###1.160346
+Indian Rupee###1.87
