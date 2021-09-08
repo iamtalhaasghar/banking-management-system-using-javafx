@@ -32,8 +32,7 @@ under a conventional banking software. Few of them are listed below:
 
 -   *Virtual ATM* (ATM Simulation)
 
--   *A Virtual Agent* as a representative of Bank for Customer Care and
-    > Help
+-   *A Virtual Agent* as a representative of Bank for Customer Care and Help
 
 -   *E-Billing* or *Online Billing* of Utility Bills
 
@@ -45,8 +44,7 @@ My Banking Management System is a GUI based application with an
 interactive interface. The major and important elements of the
 application are:
 
--   *Main Menu* which lists all the core functionality available in the
-    > Banking Management System
+-   *Main Menu* which lists all the core functionality available in the Banking Management System
 
 -   *Administrator Login Portal* and *Admin Dashboard*
 
@@ -78,11 +76,11 @@ Java Source Code.
 
 **Overview of Banking Management System:**
 
-> From a Programmers\` point of view the Banking Management System
-> consists of following key Elements:
->
-> The banking management System contains three custom java packages and
-> multiples .class and .java files within those packages.
+From a Programmers\` point of view the Banking Management System
+consists of following key Elements:
+
+The banking management System contains three custom java packages and
+multiples .class and .java files within those packages.
 
 These three packages namely are:
 
@@ -98,7 +96,7 @@ These three packages namely are:
 
 **Hierarchal View of the Application:**
 
-> The Hierarchal view of the software is given below:
+The Hierarchal view of the software is given below:
 
 **Hierarchal View of the “*Bank*” package:**
 
